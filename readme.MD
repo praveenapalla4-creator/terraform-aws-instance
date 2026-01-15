@@ -11,3 +11,4 @@ This module creates Ec2 Intsance
 
 * public_ip - Public Ip of the instance created
 * private_ip - Private Ip of the instance created
+* instance_id - Instance Id created
